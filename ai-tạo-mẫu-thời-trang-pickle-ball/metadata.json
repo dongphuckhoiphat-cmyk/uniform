@@ -1,5 +1,0 @@
-{
-  "name": "AI Tạo Mẫu Thời Trang Pickle Ball",
-  "description": "An advanced image editing application powered by Gemini 2.5 Flash Image. Upload an image and describe changes like 'add a retro filter' or 'change background' to generate professional results instantly.",
-  "requestFramePermissions": []
-}
